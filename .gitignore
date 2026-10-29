@@ -1,0 +1,10 @@
+.env
+*.db
+*.db-*
+*.db.*
+*.sqlite*
+*.bak
+__pycache__/
+.venv/
+.runtime/
+.test-artifacts/
